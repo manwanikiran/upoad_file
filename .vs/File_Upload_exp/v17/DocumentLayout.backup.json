@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|c:\\users\\teamkoder\\source\\repos\\file_upload_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|c:\\users\\teamkoder\\source\\repos\\file_upload_exp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|c:\\users\\teamkoder\\source\\repos\\file_upload_exp\\file_upload_exp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|solutionrelative:file_upload_exp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|c:\\users\\teamkoder\\source\\repos\\file_upload_exp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|c:\\users\\teamkoder\\source\\repos\\file_upload_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{780B1EE6-C5C2-44CA-8672-7F67EEE461C6}|File_Upload_exp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T04:37:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "File_Upload_exp",
               "DocumentMoniker": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\File_Upload_exp.csproj",
               "RelativeDocumentMoniker": "File_Upload_exp.csproj",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\TEAMKODER\\source\\repos\\File_Upload_exp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
